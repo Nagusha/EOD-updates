@@ -1,0 +1,44 @@
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 80px;
+    align-items:center;
+    padding:0px 40px;
+}
+.logo{
+    font-size: 30px;
+    color: black;
+}
+body {
+    background-color: pink;
+  }
+.nav{
+    position: relative;
+    left: 180px;
+}
+.nav{
+    position: relative;
+    left: 180px;
+}
+a{
+    padding: 5px 15px;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: greenyellow;
+    text-decoration: underline;
+}
+.heading{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 65px;
+    align-items: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
